@@ -8,4 +8,4 @@ Add yourself below 👇
 ## Contributors
 
 - [Debpriyo Ghosal] — SDE @ Kubar Labs 
-- [Your Name] — Your description
+- Joyjit Das - Trying to do better each day 
