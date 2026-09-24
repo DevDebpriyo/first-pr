@@ -8,5 +8,6 @@ Add yourself below 👇
 ## Contributors
 
 - [Debpriyo Ghosal] — SDE @ Kubar Labs 
-- [Daipayan Maitra] — STUDENT @ NSEC 
+- [Daipayan Maitra] — STUDENT @ NSEC
+- [Bibhas Mondal] — STUDENT @ NSEC 
 - [Your Name] — Your description
