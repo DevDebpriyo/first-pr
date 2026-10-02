@@ -8,4 +8,5 @@ Add yourself below 👇
 ## Contributors
 
 - [Debpriyo Ghosal] — SDE @ Kubar Labs 
-- [Anay Saha] — cs50 explorer
+- [Anay Saha] — cs50 explorer STUDENT @ NSEC
+- [Daipayan Maitra] — STUDENT @ NSEC
